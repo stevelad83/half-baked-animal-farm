@@ -20,3 +20,10 @@
   text-transform: uppercase;
   font-weight: bold;
 }
+
+h2 {
+  margin-bottom: 0;
+}
+p {
+  margin-bottom: 0;
+}
